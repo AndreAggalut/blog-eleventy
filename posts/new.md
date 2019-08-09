@@ -1,7 +1,7 @@
 ---
 title: Week 7 Blog - New Post Alert.
 description: This is a post on My Blog about agile frameworks.
-date: 2019-09-09
+date: 2019-08-09
 tags:
   - new post alert
 layout: layouts/post.njk
@@ -21,18 +21,23 @@ layout: layouts/post.njk
 
 - is promised-base
 - can use the same API from node.js
+- can send objects compared to fetch
+
+<b> Git </b>
+
+- Master branch vs Production branch
+- You can the roll the command back
 
 # What was difficult
 
-- understanding how to implement the API to our project
-- figuring out what to use between fetch or axios
+- Understanding how to implement the API to our project
+- Figuring out what to use between fetch or axios
 
 # What was effective / ineffective about both your personal and your group work flow?
 
 - Our communication is effective
-- My knowledge from database can be applied to the project
--
+- Applying my knowledge from database, and how can it be applied to the project
 
 # Any additional thoughts on your product
 
-- Our project is bound to make a change in the web surfing
+- Our project is bound to make a change in the web surfing world
