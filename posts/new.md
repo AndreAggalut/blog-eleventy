@@ -1,10 +1,11 @@
 ---
-title: Week 7 Blog - New Post Alert.
+title: Week 7 Blog - New Post Alert 🔥
 description: This is a post on My Blog about agile frameworks.
 date: 2019-08-09
 tags:
   - new post alert
 layout: layouts/post.njk
+hero: https://media.giphy.com/media/cmf74zyu4qArK83wHC/giphy.gif
 ---
 
 # What did I work on this week
