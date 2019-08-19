@@ -1,7 +1,7 @@
 ---
 title: Week 8 Blog - New Post Alert 🔥
 description: This is a post on My Blog about 2nd sprint.
-date: 2019-08-09
+date: 2019-08-16
 tags:
   - new post alert
 layout: layouts/post.njk
